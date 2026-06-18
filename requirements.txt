@@ -1,0 +1,7 @@
+flask
+requests
+awsgi; platform_system != "Windows"
+tiktoken
+openai
+boto3
+pytest
